@@ -14,7 +14,7 @@
     "@babel/core": "^7.16.0",
     "@harmony-js/core": "^0.1.57",
     "@harmony-js/crypto": "^0.1.56",
-    "@openzeppelin/contracts": "^4.3.1",
+    "@openzeppelin/contracts": "^4.9.3",
     "@truffle/contract": "^4.3.21",
     "@truffle/hdwallet-provider": "1.5.1",
     "@trufflesuite/web3-provider-engine": "^14.0.7",
